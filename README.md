@@ -1,6 +1,8 @@
-Browser.php
+UserAgent.php
 =============
 
+This is totally the work of Chris Schuld (http://chrisschuld.com/).
+I've just updated his Browser.php to be more OOPy and PHP5y.
 
 Detecting the user.s browser type and version is helpful in web applications that harness some of the newer bleeding edge concepts. With the browser type and version you can notify users about challenges they may experience and suggest they upgrade before using such application. Not a great idea on a large scale public site; but on a private application this type of check can be helpful.
 
